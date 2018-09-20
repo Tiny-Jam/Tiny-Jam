@@ -217,6 +217,10 @@ Prefab:
       propertyPath: m_RootOrder
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 143888, guid: c4d074ad39c4acf45804e32b47841aa4, type: 2}
+      propertyPath: m_Name
+      value: Player Slime
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: c4d074ad39c4acf45804e32b47841aa4, type: 2}
   m_IsPrefabParent: 0
