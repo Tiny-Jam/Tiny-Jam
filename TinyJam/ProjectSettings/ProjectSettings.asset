@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 14
-  productGUID: cf90538370580ea4384183db8424c811
+  productGUID: 306d1c2c263981948a75c956796e6ab0
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   defaultScreenOrientation: 4
@@ -634,8 +634,8 @@ PlayerSettings:
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: 855dec2f-09b8-4231-a6f7-abb931cdf743
-  projectName: TinyJam
+  cloudProjectId: 70e6ca53-b71e-4834-be20-a36a3e970a58
+  projectName: TinyJam (1)
   organizationId: tinyjamteamone
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
