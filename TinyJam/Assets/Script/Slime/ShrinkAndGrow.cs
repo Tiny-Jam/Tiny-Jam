@@ -34,6 +34,7 @@ public class ShrinkAndGrow : MonoBehaviour {
             }
         }
     }
+
     public void Update()
     {
         if(Input.GetButtonDown("Jump"))
